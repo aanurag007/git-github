@@ -1,0 +1,3 @@
+.gitignore- hide the file like .env
+gitkeep
+log
